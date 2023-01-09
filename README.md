@@ -17,5 +17,5 @@ To delete all the configuration
 
 To delete specific resource
 
-``` terrafrom destroy -Target <aws_instance.myinstance example> ```
+``` terraform destroy -target <aws_instance>.LocalName -target RESOURCE_TYPE2.NAME ```
 
