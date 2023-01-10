@@ -29,6 +29,10 @@
 
 ``` terrafomr plan --var-file="custome.tf"```
 
+**To appy direct without writting Yes**
+
+```terrafomr plan --var-file="custome.tf --auto-approve```
+
 **To set the ENV variable in windows and  Linux**
 
     **FOR Windows**
