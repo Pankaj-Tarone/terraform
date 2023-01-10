@@ -35,10 +35,10 @@
 
 **To set the ENV variable in windows and  Linux**
 
-    **FOR Windows**
+   **FOR Windows**
 
 ``` $ SETX TF_VAR_instancetype m5.large"```
     
-    **FOR Linux** 
+   **FOR Linux** 
     
  ``` $ Export TF_VAR_instance="t2.medium"```   
