@@ -37,8 +37,8 @@
 
     **FOR Windows**
 
-```$ SETX TF_VAR_instancetype m5.large"```
+``` $ SETX TF_VAR_instancetype m5.large"```
     
     **FOR Linux** 
     
- ```$ Export TF_VAR_instance="t2.medium"```   
+ ``` $ Export TF_VAR_instance="t2.medium"```   
