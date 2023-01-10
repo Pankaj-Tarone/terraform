@@ -29,11 +29,11 @@
 
 ``` terrafomr plan --var-file="custome.tf"```
 
-To set the ENV variable in windows and  Linux```
+**To set the ENV variable in windows and  Linux**
 
     **FOR Windows**
 
-``` $ SETX TF_VAR_instancetype m5.large"```
+```$ SETX TF_VAR_instancetype m5.large"```
     
     **FOR Linux** 
     
